@@ -15,4 +15,7 @@ def test(param:str):
 
 ```
 
-another vault change. and an another one
+```javascript
+	let _array = []
+	_array.map((item,index)=>console.log(item,index))
+```
