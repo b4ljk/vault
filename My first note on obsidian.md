@@ -1,5 +1,5 @@
 ```go
 import "fmt"
 
-fmt.Println("hello world");
+fmt.Println("a minor change");
 ```
