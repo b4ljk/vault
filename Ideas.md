@@ -9,4 +9,4 @@
 ### AI assessment
 1. assess user firstly, mostly our ai is gonna be focused on parents
 2. if we are focusing on children, we should we make it gamified, (daily usage streak etc)
-3. may be we can gift students (gift cards, or some stuff like mlbb diamonds etc), perhaps, that is going to motivate students, also we can show what we gifted and how many 
+3. may be we can gift students (gift cards, or some stuff like mlbb diamonds etc), perhaps, that is going to motivate students, also we can show that we developerd
