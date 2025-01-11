@@ -3,4 +3,5 @@
 2. Unavoidable (as name suggest it should be unavoidable, like tax and death :))
 	1. outcome should be standard like tangible stuff
 	2. parents usually believe in either big names or technology
-		1. they like to evaluate their children 
+		1. they like to evaluate their children (AI driven evaluation on children etc)
+		2. 
