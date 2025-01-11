@@ -5,4 +5,4 @@
 	2. parents usually believe in either big names or technology
 		1. they like to evaluate their children (AI driven evaluation on children etc)
 3. URGENT
-	1. 
+4. duolingo like coz most educational stuff are boring as heck
