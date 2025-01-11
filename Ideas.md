@@ -8,4 +8,5 @@
 4. duolingo like coz most educational stuff are boring as heck
 ### AI assessment
 1. assess user firstly, mostly our ai is gonna be focused on parents
-2. 
+2. if we are focusing on children, we should we make it gamified, (daily usage streak etc)
+3. 
