@@ -6,3 +6,5 @@
 		1. they like to evaluate their children (AI driven evaluation on children etc)
 3. URGENT
 4. duolingo like coz most educational stuff are boring as heck
+### AI assessment
+1. assess user firstly, mostly our ai is gonna be focused on
