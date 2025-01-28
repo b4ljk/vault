@@ -1,0 +1,1 @@
+ docker compose --profile core up --build -d
